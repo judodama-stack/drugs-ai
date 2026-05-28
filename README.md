@@ -67,7 +67,7 @@ git clone https://github.com/YOUR_USERNAME/drugs-ai.git
 ## 2. Masuk ke Folder Project
 
 ```bash
-cd ai-agent-farmasi
+cd drugs-ai
 ```
 
 ## 3. Install Dependencies
